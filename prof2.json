@@ -1,0 +1,15 @@
+{
+    "professor": {
+      "nome": "Maria Oliveira",
+      "idade": 35,
+      "disciplina": "História"
+    },
+    "assunto": "Revolução Francesa",
+    "alunos": [
+      {"nome": "Bruno Dias", "idade": 18, "nota": 8.0},
+      {"nome": "Lucas Alves", "idade": 17, "nota": 8.7},
+      {"nome": "Paula Ribeiro", "idade": 18, "nota": 7.5},
+      {"nome": "Sofia Martins", "idade": 17, "nota": 9.1}
+    ]
+  }
+  

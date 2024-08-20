@@ -1,0 +1,15 @@
+{
+    "professor": {
+      "nome": "Pedro Lima",
+      "idade": 45,
+      "disciplina": "Física"
+    },
+    "assunto": "Leis de Newton",
+    "alunos": [
+      {"nome": "Ricardo Mendes", "idade": 18, "nota": 8.8},
+      {"nome": "Gabriela Rocha", "idade": 19, "nota": 9.0},
+      {"nome": "Thiago Campos", "idade": 18, "nota": 7.9},
+      {"nome": "Larissa Silva", "idade": 17, "nota": 8.4}
+    ]
+  }
+  

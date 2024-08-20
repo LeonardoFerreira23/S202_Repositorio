@@ -1,0 +1,15 @@
+{
+    "professor": {
+      "nome": "João Silva",
+      "idade": 40,
+      "disciplina": "Matemática"
+    },
+    "assunto": "Álgebra",
+    "alunos": [
+      {"nome": "Ana Souza", "idade": 17, "nota": 9.0},
+      {"nome": "Carlos Pereira", "idade": 18, "nota": 8.5},
+      {"nome": "Mariana Santos", "idade": 17, "nota": 9.2},
+      {"nome": "Felipe Costa", "idade": 19, "nota": 7.8}
+    ]
+  }
+  
